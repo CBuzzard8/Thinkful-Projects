@@ -29,6 +29,7 @@ In this scenario, you're working as an analyst at an investment bank.
 The team that you're working with wants to understand how it should allocate dollars earmarked for investment into mortgage-backed securities. They've asked you to look into the factors that drive home prices.
 <br/>
 <br/>
+
 <b>Capstone 3<b/>
   
 Find an interesting dataset you want to work with. Then you'll use Python and pandas to explore and ultimately craft analysis for a final presentation. You'll need to produce visualizations and analysis in Python. 
