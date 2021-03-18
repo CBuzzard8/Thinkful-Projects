@@ -20,6 +20,7 @@ They've asked you to produce the following deliverables based on the raw data an
 You'll be responsible for doing all the work to transform the raw data into those deliverables.
 <br/>
 <br/>
+
 <b>Capstone 2<b/>
 
 Home prices
