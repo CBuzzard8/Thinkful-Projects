@@ -21,8 +21,8 @@ You'll be responsible for doing all the work to transform the raw data into thos
 <br/>
 <br/>
 
-<b>Capstone 2<b/>
-
+<b>Capstone 2</b>
+  
 Home prices
 
 In this scenario, you're working as an analyst at an investment bank.
@@ -31,7 +31,7 @@ The team that you're working with wants to understand how it should allocate dol
 <br/>
 <br/>
 
-Capstone 3
+<b>Capstone 3</b>
   
 Find an interesting dataset you want to work with. Then you'll use Python and pandas to explore and ultimately craft analysis for a final presentation. You'll need to produce visualizations and analysis in Python. 
 
