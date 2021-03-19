@@ -21,7 +21,7 @@ You'll be responsible for doing all the work to transform the raw data into thos
 <br/>
 <br/>
 
-Capstone 2
+<b>Capstone 2<b/>
 
 Home prices
 
